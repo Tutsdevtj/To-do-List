@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+
+    <title>To Do List</title>
+</head>
+
+<body>
+    <h1>To-do List</h1>
+    <div id="container">
+        <div class="input-group">
+            <input type="text" value="" id="task" placeholder="Adicione uma tarefa">
+            <input type="button" value="Adicionar Tarefa" id="btn" onclick="loadData()">
+        </div>
+
+        <div class="radios">
+            <label><input type="radio" name="prioridade" id="priority" value="importante" checked> Importante!</label>
+            <label><input type="radio" name="prioridade" id="priority" value="marromeno"> marromeno</label>
+            <label><input type="radio" name="prioridade" id="priority" value="tasuave"> ta suave</label>
+        </div>
+
+        <ul id="myList">
+
+
+        </ul>
+    </div>
+    </div>
+    <footer class="footer">
+
+        <p>Arthur Reis - Student Dev</p>
+
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
