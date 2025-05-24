@@ -1,5 +1,7 @@
 # 📝 To Do List com Prioridades
 
+(local storage in process...)
+
 Este é um projeto simples de **To Do List (lista de tarefas)** feito com HTML, CSS e JavaScript puro.  
 Permite adicionar e remover tarefas, além de definir a **prioridade** (baixa, média ou importante), aplicando uma cor visual diferente para cada uma.
 
