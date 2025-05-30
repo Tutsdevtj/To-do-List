@@ -28,4 +28,4 @@ Permite adicionar e remover tarefas, além de definir a **prioridade** (baixa, m
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/to-do-list.git
+   git clone https://github.com/Tutsdevtj/to-do-list.git
